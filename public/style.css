@@ -1,0 +1,12 @@
+body {
+  background-color: #008080 ;
+  color: #C0C0C0;
+}
+
+h1, h2 {
+  letter-spacing: 2px;
+}
+
+h5, ul {
+  letter-spacing: 1px;
+}
